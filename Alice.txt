@@ -2,4 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Second line added.
 New line to Alice.
 Hello Alice!
+<<<<<<< HEAD
 Five lines.
+=======
+I've a change.
+>>>>>>> Alice is changed in add_patrick
